@@ -162,7 +162,7 @@ Between 1994 and 2014, Georgia experienced significant declines in robbery, frau
 
 
 # Question 2:
-What are the Top 10 Counties in Georgia with the highest amount of fraud arrests?
+What are the Top 10 Counties in Georgia with the highest number of fraud arrests?
 # Why is this question important?
 Understanding which counties in Georgia have the highest fraud rates is crucial for several reasons. Georgia consistently ranks among the states most affected by fraud, with over 177,000 reported cases between April 2023 and March 2024, equating to 1,605 cases per 100,000 residents—62% higher than the national average . Identifying the top counties impacted by fraud enables state and local governments, law enforcement agencies, and community organizations to allocate resources more effectively, tailor public awareness campaigns, and implement targeted prevention strategies. For instance, counties like Fulton, DeKalb, and Bibb have been highlighted for higher crime rates, including fraud-related offenses . By focusing on these areas, authorities can address the specific types of scams prevalent there, such as imposter scams, identity theft, and real estate fraud, thereby enhancing consumer protection and reducing financial losses for residents.​
 
@@ -170,9 +170,9 @@ Understanding which counties in Georgia have the highest fraud rates is crucial 
 <img width="621" alt="Screenshot 2025-04-28 at 5 16 09 PM" src="https://github.com/user-attachments/assets/50d978a8-e135-4e8d-9e6a-ced8efb7dcc9" />
 
 # Question 2 Insights and Analysis:
-1. Musco​gee County is a clear outlier, with 32,457 reported fraud cases — significantly higher than any other county. This suggests either a very large problem locally, greater reporting efficiency, or perhaps demographic or economic factors contributing to more fraud activity.
+1. Musco​gee County is a clear outlier, with 32,457 reported fraud cases, significantly higher than any other county. This suggests either a very large problem locally, greater reporting efficiency, or perhaps demographic or economic factors contributing to more fraud activity.
 
-2. Fulton County (Atlanta’s county) follows but with a noticeable gap at 22,819 cases. Given Fulton’s large population and urban setting, high fraud numbers are expected, but the fact that Muscogee surpasses it by almost 10,000 cases is striking.
+2. Fulton County (Atlanta’s county) follows, but with a noticeable gap at 22,819 cases. Given Fulton’s large population and urban setting, high fraud numbers are expected, but the fact that Muscogee surpasses it by almost 10,000 cases is striking.
 
 3. Dougherty and Clayton Counties are also high on the list with 20,277 and 19,472 cases, respectively. These counties might be facing significant socioeconomic challenges that can correlate with higher fraud incidence.
 
